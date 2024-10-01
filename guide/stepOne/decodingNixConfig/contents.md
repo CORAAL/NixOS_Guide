@@ -327,9 +327,9 @@ Cherchez à comprendre.
 
 ### Formater 
 
-Maintenant que vous avez une idée du rôle de chaque options, nous allons la "réduire" et les grouper entre-elles. 
+Maintenant que vous avez une idée du rôle de chaque options, nous allons les grouper entre-elles. 
 
-Comme vous avez pu le constater, dans chaque option, les "sous-options" associés sont séparés des points. 
+Comme vous avez pu le constater, dans chaque option, les "sous-options" associés sont séparés par des points. 
 Vous pouvez vous représentez ça comme des catégories, plus on rajoute de mots et de points et plus on "filtre" la catégorie 
 
 <!-- TODO: Pitié, moi du future, reformule ça -->

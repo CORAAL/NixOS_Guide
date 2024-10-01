@@ -606,7 +606,7 @@ Félicitations, vous venez de **modulariser** votre configuration.
 > [!IMPORTANT]
 > Si vous n'aviez pas compris, nous avons réunis dans `modules/nixos/core/default.nix` l'ensemble des
 > importations `core`. 
-> Puisque de toute manière, on les veux sur toutes les machines, autant les réunir en un seul point. 
-> Nous ne faisons pas la même chose avec les modules `optional` puisque nous piocherons ces derniers au besoin.
+> Puisque de toute manière, on les veux sur toutes les machines, autant s'épargner le besoin de les ré-écrire systématiquement. 
+> Nous ne faisons pas la même chose avec les modules `optional` puisque nous piocherons ces derniers au cas par cas.
 
 
