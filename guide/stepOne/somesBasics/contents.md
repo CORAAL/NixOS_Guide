@@ -437,14 +437,3 @@ sudo nixos-rebuild switch
 
 > [!IMPORTANT]
 > Notez que pour chaque rebuild, une version sera généré. 
-
-
-
-
-
-
-
-
-
-
-
