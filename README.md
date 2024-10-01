@@ -74,6 +74,8 @@ Les éléments ci-dessous sont en préparation, notez que l'ordre des éléments
 - [ ] Rice son système avec Stylix
 - [ ] NixOS-Anywhere + Disko
 - [ ] Impermanence
+- [ ] Naviguer dans un flocon
+- [ ] Nix repl
 - [ ] Configurer un éditeur (neovim, vscode, helix)
 - [ ] Mettre en place un homelab sous NixOS
     - [ ] Hardening 
