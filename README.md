@@ -74,6 +74,7 @@ Les éléments ci-dessous sont en préparation, notez que l'ordre des éléments
 - [ ] Rice son système avec Stylix
 - [ ] NixOS-Anywhere + Disko
 - [ ] Impermanence
+- [ ] Specialisation
 - [ ] Naviguer dans un flocon
 - [ ] Nix repl
 - [ ] Configurer un éditeur (neovim, vscode, helix)
